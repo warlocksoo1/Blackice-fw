@@ -1,0 +1,7 @@
+Package: blackice
+Version: 1.0
+Architecture: all
+Maintainer: YourName <you@example.com>
+Depends: python
+Description: Blackice Firewall and Scanner Toolkit
+ A terminal-based security toolkit for learning and ethical hacking.
